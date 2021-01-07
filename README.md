@@ -18,8 +18,8 @@ Here are some ideas to get you started:
 ##### Aka [Davidev|LancillottoRotto dal Web](http://www.davidev.it/) 💖👋
 
 ## Sono uno sviluppatore Full Stack!
-- 👇 I miei progetti [I miei progetti](http://www.davidev.it/portfolio)!
 - 👨‍💻 Stack favoriti: Golang + Php + Laravel + Swift + Cobject + Wordpress + React
 - 👨‍🏫 In questo memento sto studiando lo sviluppo delle app per Ios Swift 💖🦀
 - 🤔👯 Se volete collabolare o vi serve una mano 🙌
 - 👾 Sono anche un super giocatore 🤣
+- 👇 Altrimenti anche qui :D -> [I miei progetti](http://www.davidev.it/portfolio)!
