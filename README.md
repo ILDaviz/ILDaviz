@@ -17,6 +17,8 @@ Here are some ideas to get you started:
 ## Ciao a tutti! Sono David
 ##### Aka [Davidev|LancillottoRotto dal Web](http://www.davidev.it/) 💖👋
 
+![Alt Text](https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif)
+
 ## Sono uno sviluppatore Full Stack!
 - 👨‍💻 Conosco: Golang + Php + Laravel + Swift + Cobject + Wordpress + React
 - 👨‍🏫 In questo memento sto studiando lo sviluppo delle app per Ios Swift 💖🦀
