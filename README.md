@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **ILDaviz/ILDaviz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+## Ciao a tutti! Sono David
+##### Aka [Davidev|LancillottoRotto dal Web](http://www.davidev.it/) 💖👋
+
+## Sono uno sviluppatore Full Stack!
+- 👇 I miei progetti [I miei progetti](http://www.davidev.it/portfolio)!
+- 👨‍💻 Stack favoriti: Golang + Php + Laravel + Swift + Cobject + Wordpress + React
+- 👨‍🏫 In questo memento sto studiando lo sviluppo delle app per Ios Swift 💖🦀
+- 🤔👯 Se volete collabolare o vi serve una mano 🙌
+- 👾 Sono anche un super giocatore 🤣
