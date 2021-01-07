@@ -22,4 +22,4 @@ Here are some ideas to get you started:
 - 👨‍🏫 In questo memento sto studiando lo sviluppo delle app per Ios Swift 💖🦀
 - 🤔👯 Se volete collabolare o vi serve una mano 🙌
 - 👾 Sono anche un super giocatore 🤣
-- 👇 Altrimenti anche qui :D -> [I miei progetti](http://www.davidev.it/portfolio)!
+- I miei progetti recenti.. sono 👇 || Altrimenti anche qui :D 🤜 [I miei progetti](http://www.davidev.it/portfolio)!
