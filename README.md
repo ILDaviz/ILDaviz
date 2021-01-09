@@ -20,8 +20,8 @@ Here are some ideas to get you started:
 ![Alt Text](https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif)
 
 ## Sono uno sviluppatore Full Stack ±🤷! 
-- 👨‍💻 Conosco bene: Golang + Php + Laravel + Wordpress 
-- 👨‍💻 Conosco : Swift + Cobject + React
+- 👨‍💻 Conosco + : Php + Laravel + Wordpress + Golang 
+- 👨‍💻 Conosco - : Swift + Cobject + React
 - 👨‍🏫 In questo memento sto studiando lo sviluppo delle app per Ios Swift 💖🦀
 - 🤔👯 Se volete collabolare o vi serve una mano 🙌
 - 👾 Sono anche un super giocatore 🤣
