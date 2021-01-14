@@ -13,16 +13,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-## Ciao a tutti! Sono David
-##### Aka [Davidev|LancillottoRotto dal Web](http://www.davidev.it/) 💖👋
+## Hi everyone! I'm David
+##### Aka [Davidev | LancelottoBroken from the Web] (http://www.davidev.it/) 💖👋
 
 ![Alt Text](https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif)
 
-## Sono uno sviluppatore Full Stack ±🤷! 
-- 👨‍💻 Conosco + : Php + Laravel + Wordpress + Golang 
-- 👨‍💻 Conosco - : Swift + Cobject + React
-- 👨‍🏫 In questo memento sto studiando lo sviluppo delle app per Ios Swift 💖🦀
-- 🤔👯 Se volete collabolare o vi serve una mano 🙌
-- 👾 Sono anche un super giocatore 🤣
-- I miei progetti recenti.. sono 👇 || Altrimenti anche qui :D 🤜 [I miei progetti](http://www.davidev.it/portfolio)!
+## I'm a Full Stack developer ± 🤷!
+- 👨‍💻 I know +: Php + Laravel + Wordpress + Golang
+- 👨‍💻 I know -: Swift + Cobject + React
+- 👨‍🏫 In this moment i studying app development for Ios Swift 💖🦀
+- 👾 I'm also a super videogame player 🤣
+- My recent projects .. are 👇 || Otherwise here too: D 🤜 [My projects] (http://www.davidev.it/portfolio)!
