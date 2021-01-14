@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 ## Hi everyone! I'm David
-##### Aka [Davidev | LancillottoRotto from the Web] (http://www.davidev.it/) 💖👋
+##### Aka [Davidev | LancillottoRotto from the Web](http://www.davidev.it/) 💖👋
 
 ![Alt Text](https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif)
 
@@ -23,4 +23,4 @@ Here are some ideas to get you started:
 - 👨‍💻 I know -: Swift + Cobject + React
 - 👨‍🏫 In this moment i studying app development for Ios Swift 💖🦀
 - 👾 I'm also a super videogame player 🤣
-- My recent projects .. are 👇 || Otherwise here too: D 🤜 [My projects] (http://www.davidev.it/portfolio)!
+- My recent projects .. are 👇 || Otherwise here too: D 🤜 [My projects](http://www.davidev.it/portfolio)!
