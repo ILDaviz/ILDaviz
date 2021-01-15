@@ -21,6 +21,5 @@ Here are some ideas to get you started:
 ## I'm a Full Stack developer ± 🤷!
 - 👨‍💻 I know +: Php + Laravel + Wordpress + Golang
 - 👨‍💻 I know -: Swift + Cobject + React
-- 👨‍🏫 In this moment i studying app development for Ios Swift 💖🦀
 - 👾 I'm also a super videogame player 🤣
 - My recent projects .. are 👇 || Otherwise here too: D 🤜 [My projects](http://www.davidev.it/portfolio)!
