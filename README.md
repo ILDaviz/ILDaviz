@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 ![Alt Text](https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif)
 
-## I'm a Full Stack developer ± 🤷!
+## I'm a developer ± 🤷!
 - 👨‍💻 I know +: Php + Laravel + Wordpress + Golang + JS + TS
 - 👨‍💻 I know -: Swift + Cobject + React
 - 👾 I'm also a super videogame player 🤣
