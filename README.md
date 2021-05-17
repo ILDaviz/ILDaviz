@@ -21,4 +21,4 @@ Here are some ideas to get you started:
 ## I'm a developer ± 🤷!
 - 👨‍💻 I know : Php + Laravel + Wordpress + Golang + JS + TS
 - 👾 I'm also a super videogame player 🤣
-- My recent projects .. are 👇 || Otherwise here too: D 🤜 [My projects](http://www.davidev.it/portfolio)!
+- 👨🏻‍💻 My recent projects .. are 👇
