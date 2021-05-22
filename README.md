@@ -19,6 +19,7 @@ Here are some ideas to get you started:
 ![Alt Text](https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif)
 
 ## I'm a developer ± 🤷!
-- 👨‍💻 I know : Php + Laravel + Wordpress + Golang + JS + TS
+- 👨‍💻 I know : Php + Golang + JS + TS
+- 🚀 Framework : Opencart + Laravel + Wordpress
 - 👾 I'm also a super videogame player 🤣
 - 👨🏻‍💻 My recent projects .. are 👇
