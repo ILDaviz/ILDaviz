@@ -21,5 +21,4 @@ Here are some ideas to get you started:
 ## I'm a developer ± 🤷!
 - 👨‍💻 I know : Php + Golang + JS + TS
 - 🚀 Framework : Opencart + Laravel + Wordpress
-- 👾 I'm also a super videogame player 🤣
 - 👨🏻‍💻 My recent projects .. are 👇
