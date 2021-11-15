@@ -22,4 +22,3 @@ Here are some ideas to get you started:
 - ✨ Right now I'm working with: Laravel + Vue
 - 👨‍💻 I know : Php + JS + TS + Golang
 - 🚀 I know fw : Opencart + Laravel + Wordpress + Vue
-- 👨🏻‍💻 My recent projects .. are 👇
