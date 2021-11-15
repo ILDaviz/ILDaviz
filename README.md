@@ -20,5 +20,6 @@ Here are some ideas to get you started:
 
 ## I'm a developer ± 🤷!
 - 👨‍💻 I know : Php + JS + TS + Golang
-- 🚀 Framework : Opencart + Laravel + Wordpress + Vue
+- ✨ I am working for: Laravel + Vue
+- 🚀 I know : Opencart + Laravel + Wordpress + Vue
 - 👨🏻‍💻 My recent projects .. are 👇
