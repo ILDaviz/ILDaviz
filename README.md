@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 ![Alt Text](https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif)
 
 ## I'm a developer ± 🤷!
+- ✨ Right now I'm working with: Laravel + Vue
 - 👨‍💻 I know : Php + JS + TS + Golang
-- ✨ I am working for: Laravel + Vue
-- 🚀 I know : Opencart + Laravel + Wordpress + Vue
+- 🚀 I know fw : Opencart + Laravel + Wordpress + Vue
 - 👨🏻‍💻 My recent projects .. are 👇
