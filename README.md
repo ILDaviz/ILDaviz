@@ -21,4 +21,4 @@ Here are some ideas to get you started:
 ## I'm a developer ± 🤷!
 - ✨ Right now I'm working with: Laravel + Vue
 - 👨‍💻 I know : Php, JS, TS, Golang
-- 🚀 I know framework : Laravel, Wordpress, Vue, Opencart
+- 🚀 I know framework : Laravel, Wordpress, Vue, Opencart, Prestashop
