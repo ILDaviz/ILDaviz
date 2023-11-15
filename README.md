@@ -21,5 +21,5 @@ Here are some ideas to get you started:
 ## I'm a developer ± 🤷!
 - ✨ Right now I'm working with: Laravel and Vue
 - 👨‍💻 I know : PHP, JS, TS, Golang
-- 🚀 I know framework : Laravel, Vue, Prestashop, Wordpress, Opencart
+- 🚀 I know framework : Laravel, Vue, Prestashop, Opencart
 - 🔭 I’m currently working on package for integrate graphql to lunarphp 
