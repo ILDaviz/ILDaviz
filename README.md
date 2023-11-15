@@ -19,6 +19,7 @@ Here are some ideas to get you started:
 ![Alt Text](https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif)
 
 ## I'm a developer ± 🤷!
-- ✨ Right now I'm working with: Laravel + Vue
-- 👨‍💻 I know : Php, JS, TS, Golang
-- 🚀 I know framework : Laravel, Wordpress, Vue, Opencart, Prestashop
+- ✨ Right now I'm working with: Laravel and Vue
+- 👨‍💻 I know : PHP, JS, TS, Golang
+- 🚀 I know framework : Laravel, Vue, Prestashop, Wordpress, Opencart
+- 🔭 I’m currently working on package for integrate graphql to lunarphp 
