@@ -1,24 +1,14 @@
-<!--
-**ILDaviz/ILDaviz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 ## Hi everyone! I'm David
-##### Aka [Don David | Davidev | LancillottoRotto from the Web](http://www.davidev.it/) 💖👋
+##### Aka Don David | Davidev | LancillottoRotto from the Web 💻🛠️
 
-![Alt Text](https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif)
+![Coding Gif](https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif)
 
-## I'm a developer ± 🤷!
-- ✨ Right now I'm working with: Laravel and Vue
-- 👨‍💻 I know : PHP, JS, TS, Python
-- 🚀 I know : Laravel, Vue, Prestashop, Opencart
+### 🔧 I'm a developer ± 🤷 — full stack, problem solver, sometimes wizard.
+
+💼 I started coding in **2016** and since then I’ve been building web apps, APIs, and tools to simplify the life of users and developers. Or at least, I try to.
+
+#### 🚀 My main stack:
+- **Backend:** PHP (Laravel), Python
+- **Frontend:** Vue.js, TypeScript, JavaScript
+- **eCommerce:** Prestashop, Opencart
+- **DevOps & Tools:** Docker, Git, CI/CD, AWS, Kubernetes, Serverless (Bref/Lambda), and more...
