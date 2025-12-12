@@ -10,5 +10,6 @@
 #### 🚀 My main stack:
 - **Backend:** PHP (Laravel), Python
 - **Frontend:** Vue.js, TypeScript, JavaScript
+- **Mobile:** Flutter, Dart
 - **eCommerce:** Prestashop, Opencart
 - **DevOps & Tools:** Docker, Git, CI/CD, AWS, Kubernetes, Serverless (Bref/Lambda), and more...
